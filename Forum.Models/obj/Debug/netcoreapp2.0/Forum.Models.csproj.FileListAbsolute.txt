@@ -1,0 +1,9 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb

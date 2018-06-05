@@ -1,0 +1,15 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\00.WorkShop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.pdb
